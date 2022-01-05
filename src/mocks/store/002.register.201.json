@@ -1,0 +1,6 @@
+{
+    "url": "/store/api/user/create",
+    "method": "POST",
+    "status": 201,
+    "response": {}
+}

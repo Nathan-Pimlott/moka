@@ -1,8 +1,8 @@
 {
-    "url": "/hello/:world",
+    "url": "/store/api/user/authenticate",
     "method": "GET",
     "status": 200,
     "response": {
-        "hello": "world"
+        "email": "test"
     }
 }
